@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Website Name 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Retro Tech Blogs
 
-## Available Scripts
+# Website Link
 
-In the project directory, you can run:
+https://retro-tech-blogs.web.app
 
-### `npm start`
+# About This Website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Website Details
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This is a blog website which is about Retro Tech. If you want to read blogs about retro tech at first you will have to sign up. You can sign up with your google account also. After signing up please scroll down.Then you will find some cards which is about retro tech blog. On every card you will find blog title and some content of the blog. If you find any blog interesting and want to read the full blog then you have to click on the card. Then it will take you to the full blog.
 
-### `npm test`
+## Feature
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Google Sign In
+2. Email Password Sign In
+3. Customer Interface
+4. Admin Interface
+5. Blog Add System
+6. Blog Manage System
+7. Admin Add System
 
-### `npm run build`
+## Technology 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Frontend : React JS, Bootstrap, JavaScript, CSS
+2. Backend : Node Js, Express JS, Mongo DB
+3. Deploy Tools : Firebase, Heroku, Github
