@@ -1,0 +1,106 @@
+.logIn {
+  
+  height: 750px;
+}
+
+@media (max-width: 600px) {
+  .logIn {
+    height: 1700px;
+  }
+}
+
+.login-bg {
+  position: relative;
+  background-image: url("../../../Images/img2\ \(2\).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+}
+.login-bg::after {
+  position: absolute;
+  content: "";
+  left: -1px;
+  top: 0px;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(5, 11, 20, 0.28) 28%,
+    rgba(1, 13, 32, 0.69) 69%,
+    #050c1a 100%
+  );
+  opacity: 0.8;
+  height: 100%;
+  z-index: -1;
+}
+::placeholder {
+  color: white;
+  opacity: 0.7;
+}
+
+/* .login-card-bg {
+  position: relative;
+  background-image: url("../../../Images/Card1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+} */
+.login-card-bg::after {
+  position: absolute;
+  content: "";
+  left: -1px;
+  top: 0px;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(5, 11, 20, 0.28) 28%,
+    rgba(1, 13, 32, 0.69) 69%,
+    #050c1a 100%
+  );
+  opacity: 0.8;
+  height: 100%;
+  z-index: -1;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 70px;
+  align-items: center;
+}
+.booking-form {
+  border: 1px solid dark;
+  padding: 25px;
+  border-radius: 5px;
+  float: left;
+}
+.booking-form h3 {
+  margin: 10px 0px;
+}
+.booking-form .input-group {
+  margin: 10px 0;
+}
+
+.booking-form input {
+  width: 100%;
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background: gray;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+.booking-form .inputs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.booking-content {
+  color: white;
+  width: 100%;
+}

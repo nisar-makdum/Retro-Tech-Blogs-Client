@@ -1,0 +1,70 @@
+.header {
+    position: relative;
+    background-image: url("../../Images/img2\ \(2\).jpg");
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: 1;
+  }
+  .header::after {
+    position: absolute;
+    content: "";
+    left: -1px;
+    top: 0px;
+    width: 100%;
+    background: #0a0b1a;
+    opacity: .7;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .card-bg {
+    position: relative;
+    background-image: url("../../Images/img2\ \(2\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: 1;
+  }
+  .card-bg::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #0a0b1a;
+    opacity: 0.5;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .card-bg1 {
+    position: relative;
+    background-image: url("../../Images/img2\ \(2\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: 1;
+  }
+  .card-bg1::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #0a0b1a;
+    opacity: 0.7;
+    height: 100%;
+    z-index: -1;
+  }
+  .focus {
+    transition: transform 0.3s;
+  }
+  
+  .focus:hover {
+    transform: translateY(-20px);
+  }

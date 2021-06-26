@@ -1,0 +1,38 @@
+
+.footer-bg {
+  position: relative;
+  background-image: url("../../../Images/img2\ \(2\).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+}
+.footer-bg::before {
+  position: absolute;
+  content: "";
+  left: -1px;
+  top: 0px;
+  width: 100%;
+  background: #0a0b1a;
+  opacity: 0.7;
+  height: 100%;
+  z-index: -1;
+}
+
+.footer-area li {
+  padding-bottom: 10px;
+}
+
+.social-media .icon {
+  height: 50px;
+  width: 50px;
+  color: da;
+  border-radius: 50%;
+  border: 1px solid white;
+  padding: 10px;
+}
+.social-media .active-icon {
+  background-color: white;
+  color: blue;
+}

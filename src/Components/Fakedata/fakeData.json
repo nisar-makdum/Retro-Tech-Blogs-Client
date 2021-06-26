@@ -1,0 +1,47 @@
+[{
+        "id":1,
+        "title":"Retro Motorbike",
+        "description":"The history of the motorcycle begins in the second half of the 19th century..Going back in time is easy, you just need the right machine. Getting a retro motorcycle, whether used or merely designed to be a piece of the past, is a way to connect with the history of the hog.",
+        "link":"https://www.techwholesale.com/history-of-the-radio.html",
+        "image":"https://i.ibb.co/S3K3YG8/11-1950-bmw-250cc-r25-0131.jpg"
+    },
+
+    {
+        "id":2,
+        "title":"Retro Television",
+        "link":"https://bebusinessed.com/history/history-of-the-television/",
+        "description":"The world's first television stations first started appearing in America in the late 1920s and early 1930s. The first mechanical TV station was called W3XK and was created by Charles Francis Jenkins (one of the inventors of the mechanical television).",
+        "image":"https://i.ibb.co/Tt7XtXd/still-life-with-retro-old-red-tv-1150-19439.jpg"
+    },
+
+    {
+        "id":3,
+        "title":"Retro Car",
+        "link":"https://www.idrivesafely.com/defensive-driving/trending/evolution-automobile",
+        "description":"The year 1886 is regarded as the birth year of the modern car when German inventor Karl Benz patented his Benz Patent-Motorwagen. Cars became widely available in the early 20th century.  One of the first cars accessible to the masses was the 1908 Model T.",
+        "image":"https://i.ibb.co/g4Zvfwj/An-elegant-1930s-station-wagon-in-evening-sunlight.jpg"
+    },
+
+    {
+        "id":4,
+        "title":"Retro Telephone",
+        "link":"https://www.britannica.com/technology/telephone",
+        "description":"Telephone, an instrument designed for the simultaneous transmission and reception of the human voice. The telephone is inexpensive, is simple to operate, and offers its users an immediate, personal type of communication that cannot be obtained through any other medium.",
+        "image":"https://i.ibb.co/KXyxRN5/front-view-retro-telephone-23-2148796015.jpg"
+    },
+
+    {   "id":5,
+        "title":"Retro Radio",
+        "link":"https://www.techwholesale.com/history-of-the-radio.html",
+        "description":"Radio waves were first identified and studied by German physicist Heinrich Hertz in 1886. The first practical radio transmitters and receivers were developed around 1895–1896 by Italian Guglielmo Marconi, and radio began to be used commercially around 1900.",
+        "image":"https://i.ibb.co/Vm8jk3c/still-life-with-retro-radio-receiver-flower-vases-1150-19435.jpg"
+    },
+
+    {
+        "id":6,
+        "title":"Retro Camera",
+        "link":"https://en.wikipedia.org/wiki/History_of_the_camera",
+        "description":"Johann Zahn designed the first camera in 1685. But the first photograph was clicked by Joseph Nicephore Niepce in the year 1814.",
+        "image":"https://i.ibb.co/7ymhHVX/vintage-camera-3960723-1280.jpg"
+    
+    }]
